@@ -1,3 +1,4 @@
+# This script converts the data in midi files to data frames for analysis
 import sys, os
 import pandas as pd
 import music21
