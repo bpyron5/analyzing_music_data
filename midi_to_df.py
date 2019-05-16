@@ -1,4 +1,4 @@
-# This script converts the data in midi files to data frames for analysis
+# This script extracts the data from midi files
 import sys, os
 import pandas as pd
 import music21
